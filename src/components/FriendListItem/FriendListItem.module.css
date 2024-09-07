@@ -1,0 +1,20 @@
+.item {
+  text-align: center;
+}
+
+.online {
+  color: #008000;
+}
+
+.offline {
+  color: #ff0000;
+}
+
+.avatar {
+  margin-bottom: 12px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 600;
+}
