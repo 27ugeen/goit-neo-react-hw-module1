@@ -1,7 +1,7 @@
 .friendList {
   list-style: none;
   padding: 0;
-  margin: 50px auto;
+  margin: 0 auto 50px;
   display: flex;
   gap: 12px;
   justify-content: center;
@@ -12,7 +12,7 @@
   justify-content: center;
   padding: 10px;
   border: 1px solid #000000;
-  border-radius: 5px;
+  border-radius: 4px;
   min-width: 60px;
   box-shadow: 0 2px 4px #0000001a;
 }
